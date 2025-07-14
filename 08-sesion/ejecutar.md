@@ -1,0 +1,3 @@
+Analiza completamente esta carpeta del proyecto (grupo_1). Evalúa la calidad de su arquitectura, uso de patrones, buenas prácticas y completitud. Luego, como arquitecto de software senior, genera un `README.md` con dos tablas: una con las bondades y ventajas del proyecto, y otra con las oportunidades de mejora, malas prácticas o antipatrones detectados.
+
+Después de esta evaluación, crea un nuevo proyecto desde cero en una subcarpeta llamada `evaluar-proyecto`, aplicando lo aprendido, usando buenas prácticas, estructura modular, patrones arquitectónicos adecuados y dejando todo listo como base profesional. Incluye también un `estructura_reconstruida.md` con la descripción de la nueva estructura. `procede a cosntruir el proyecto en java 17 cons spring boot`
